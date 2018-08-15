@@ -1,0 +1,29 @@
+.App-logo {
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 35px;
+}
+
+.App-header {
+    background-color: #990000;
+    height: 55px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.App-title {
+    font-size: 1.5em;
+}
+
+.USC-logo {
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 35px;
+}
+
+.message {
+    font-weight: bold;
+    font-size: large;
+}

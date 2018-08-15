@@ -1,0 +1,19 @@
+.main {
+    padding: 70px;
+}
+
+.player {
+    /*自适应在页面中的位置*/
+    margin: auto;
+    display: flex;
+    /*宽度*/
+    width: 750px;
+    /*边框宽度*/
+    border: 3px solid #ccc;
+    /*阴影*/
+    box-shadow: 5px 10px 10px #888;
+    /*圆角*/
+    border-radius: 10px;
+    margin-top: 70px;
+    overflow: hidden;
+}
